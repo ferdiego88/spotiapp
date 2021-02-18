@@ -5,6 +5,11 @@ body {
     color: white !important;
 }
 
+td,
+th {
+    color: white !important;
+}
+
 hr {
     border-color: white;
 }
